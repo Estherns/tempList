@@ -1,0 +1,3 @@
+monday_temperatures = [8.9, 8.6, 10.3, 12.1]
+for temperature in monday_temperatures:
+  print(round(temperature))
